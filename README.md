@@ -17,4 +17,5 @@
 - 
 ## 💻 My Tech Stack:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![Next.js, Node.js, JavaScript, TypeScript, AWS, Azure, React, ReactNative, Nestjs, TailwindCSS ](https://skillicons.dev/icons?i=next,nestjs,nodejs,js,ts,aws,azure, react, reactnative, tailwindcss)](https://skillicons.dev)

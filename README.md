@@ -1,5 +1,12 @@
 ### Hi there 👋, My name is Alozie Prince. I'm a Fullstack developer.. I love to work on innovative projects..
 
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prince-alozie-68a161a2/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ecriphlimited@gmail.com?subject=Hello%20Prince,%20From%20Github)
+
+</div>
+
 - 🔭 I’m currently working on an Emergency Alert/Response system
 - 🌱 I’m currently learning AWS and Azure
 - 👯 I’m looking to collaborate on ...

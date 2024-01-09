@@ -17,5 +17,5 @@
 - 
 ## 💻 My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,next,ts,aws,azure,react,tailwind,react-native,prisma,mongodb,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,next,ts,aws,azure,react,tailwind,react-native,prisma,mongodb,postgresql,git)](https://skillicons.dev)
 

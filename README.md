@@ -17,7 +17,7 @@
   
 ## 💻 My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,next,ts,aws,azure,react,tailwind,reactnative,prisma,mongodb,postgresql,git,docker,firebase,figma,heroku,postman,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,next,ts,aws,azure,react,tailwind,prisma,mongodb,postgresql,git,docker,firebase,figma,heroku,postman,redux)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 

@@ -14,7 +14,7 @@
 - 📫 How to reach me: alozieprince_c@yahoo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loves playing soccer, daily exercise routine. This helps me remain focused on my daily activity/tasks
-- 
+  
 ## 💻 My Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,next,ts,aws,azure,react,tailwind,reactnative,prisma,mongodb,postgresql,git)](https://skillicons.dev)

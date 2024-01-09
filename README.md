@@ -1,7 +1,5 @@
 ### Hi there 👋, My name is Alozie Prince. I'm a Fullstack developer.. I love to work on innovative projects..
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an Emergency Alert/Response system
 - 🌱 I’m currently learning AWS and Azure
 - 👯 I’m looking to collaborate on ...

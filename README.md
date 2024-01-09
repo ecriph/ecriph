@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an Emergency Alert/Response system
 - 🌱 I’m currently learning AWS and Azure
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on innovative products/projects
 - 💬 Ask me about anything with regards to web, mobile and backend system developemnts
 - 📫 How to reach me: alozieprince_c@yahoo.com
 - 😄 Pronouns: He/Him
@@ -17,5 +17,5 @@
 - 
 ## 💻 My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,next,ts,aws,azure,react,tailwind)](https://skillicons.dev)
-[![Next.js, Node.js, JavaScript, TypeScript, AWS, Azure, React, ReactNative, Nestjs, TailwindCSS ](https://skillicons.dev/icons?i=next,nestjs,nodejs,js,ts,aws,azure, react, reactnative, tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,nestjs,next,ts,aws,azure,react,tailwind,reactnative,prisma,mongodb,postgresql)](https://skillicons.dev)
+
